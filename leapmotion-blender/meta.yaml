@@ -7,10 +7,10 @@ source:
 
 requirements:
     build:
-	    - python 3.3*
-		- swig
+        - python 3.3*
+        - swig
 
 about:
     home: https://github.com/ishikKayabas/leapmotion-blender
-	license: BSD
+    license: BSD
 
