@@ -1,0 +1,16 @@
+package:
+    name: leapmotion-blender
+	version: 1.0
+
+source:
+    git_url: https://github.com/ishikKayabas/leapmotion-blender
+
+requirements:
+    build:
+	    - python 3.3*
+		- swig
+
+about:
+    home: https://github.com/ishikKayabas/leapmotion-blender
+	license: BSD
+
