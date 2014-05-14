@@ -25,7 +25,7 @@ from the SDK's native C++ library. Python 3.3 is needed so that the library cons
 PACKAGE CONTENTS
 
 The setup.py file, while not necessary, simply provides some metadata for the package. Within the /leapmotion-blender
-directory are the rest of the package contents. The _init_.py file simply signifies to the Python compiler that the
+directory are the rest of the package contents. The _ init_.py file simply signifies to the Python compiler that the
 directory is a package. LeapPython.cpp, LeapPython.h, libLeap.so, and Leap.i are files from the Leap Motion
 SDK that are needed by Swig to generate the Python library add-on for Blender. There are two files, bld.bat and build.sh,
 which are scripts used in the build process by Windows and UNIX systems, respectively. Finally, the meta.yaml file contains
@@ -41,7 +41,7 @@ You can find additional info on how to use Conda for this project in the project
 
 AUTHOR INFO
 
-Ishik Kayabas
+- Ishik Kayabas
 - ishikkayabas@gmail.com
 
 (NOTE: If you are a future City Tech student working on this project, please feel free to email me with any questions. I
