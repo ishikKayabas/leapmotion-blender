@@ -1,12 +1,12 @@
-package:
+package: #Provides package metadata
     name: leapmotion-blender
     version: 1.0
 
-source:
-    git_url: https://github.com/ishikKayabas/leapmotion-blender
+#source: #Specifies where the source code of the package comes from
+#    git_url: git@github.com:ishikKayabas/leapmotion-blender.git
 
 requirements:
-    build:
+    build: #Specifies any packages required to build the package
         - python 3.3*
         - swig
 
