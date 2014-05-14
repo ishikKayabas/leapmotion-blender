@@ -42,8 +42,7 @@ You can find additional info on how to use Conda for this project in the project
 AUTHOR INFO
 
 Ishik Kayabas
-
-ishikkayabas@gmail.com
+- ishikkayabas@gmail.com
 
 (NOTE: If you are a future City Tech student working on this project, please feel free to email me with any questions. I
 know that the project documentation is pretty unclear about why and how we used the resources discussed, and you shouldn't
