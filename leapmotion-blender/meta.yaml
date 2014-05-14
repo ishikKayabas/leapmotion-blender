@@ -1,6 +1,6 @@
 package:
     name: leapmotion-blender
-        version: 1.0
+    version: 1.0
 
 source:
     git_url: https://github.com/ishikKayabas/leapmotion-blender
